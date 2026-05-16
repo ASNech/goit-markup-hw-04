@@ -1,2 +1,2 @@
-# goit-markup-hw-03
-HW #3, Module #3, Th: 'Block model. Flexbox'
+# goit-markup-hw-04
+HW #4, Module #4, Th: 'Decorative elements'
