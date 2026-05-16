@@ -1,0 +1,16 @@
+.features-title {
+  color: #2e2f42;
+}
+
+.features-list {
+  display: flex;
+  column-gap: 24px;
+}
+
+.features-card {
+  width: 264px;
+}
+
+.feature-card-title {
+  margin-bottom: 8px;
+}

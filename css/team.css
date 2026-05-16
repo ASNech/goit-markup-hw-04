@@ -1,0 +1,23 @@
+.team {
+  background-color: #f4f4fd;
+}
+
+.team-list {
+  display: flex;
+  column-gap: 24px;
+}
+
+.team-card {
+  background-color: #ffffff;
+  border-radius: 0 0 4px 4px;
+  flex-basis: calc((100% - 72px) / 4);
+}
+
+.team-card-content {
+  padding: 32px 16px;
+  text-align: center;
+}
+
+.team-card-title {
+  margin-bottom: 8px;
+}
