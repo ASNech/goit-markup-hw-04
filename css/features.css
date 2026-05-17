@@ -11,6 +11,18 @@
   width: 264px;
 }
 
+.feature-icon-wraper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f4f4fd;
+  border: 1px solid #8e8f99;
+  border-radius: 4px;
+  width: 264px;
+  height: 112px;
+  margin-bottom: 8px;
+}
+
 .feature-card-title {
   margin-bottom: 8px;
 }
